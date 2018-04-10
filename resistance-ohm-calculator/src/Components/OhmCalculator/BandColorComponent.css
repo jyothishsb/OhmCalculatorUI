@@ -1,0 +1,65 @@
+
+.updateAssigneeLabel{
+    float: left;
+    height: 40px;
+    padding-top: 18px;
+    padding-left: 10px;
+    font-size: 16px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    z-index: -1;
+  }
+  
+  .fieldSelectionMenuList{
+    width:50%;
+  }
+  #fieldSelectionDropdown-button{
+    color:#e69909;
+    mix-blend-mode: difference;
+    height:40px;
+    background-color: #022d46;
+    width:200px;
+    text-transform: uppercase;
+  }
+  .dropdown-caret-checked{
+    border-top: 7px solid #e69909;
+  }
+  .dropdown-caret-Unchecked{
+    border-top: 7px solid black;
+  }
+
+  .dropdown-menu{
+    position: none !important;
+    background-color: white !important;
+    font-size: 15px;
+    width: 100%;
+    margin-bottom:15px;
+  }
+
+  .dropdown{
+    font-size: 14px;
+    width:100%;
+    text-transform: uppercase;
+    padding-right: 20px;
+  }
+
+  #dropdown-caret{
+    border-left: 7px solid transparent;
+    border-right: 7px solid transparent;
+    border-top: 7px solid #e69909;
+    margin-left: 5px !important;
+
+  }
+  #dropdown-button{
+    height: 50px;
+    background-color: #022d46;
+    width:100%;
+    font-size: 16px;
+    text-transform: uppercase;
+
+  }
+  #statusDropDownList{
+    margin-top: 15px;
+  }
+
